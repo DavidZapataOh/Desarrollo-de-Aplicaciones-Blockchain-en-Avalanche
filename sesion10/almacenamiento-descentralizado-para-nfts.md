@@ -17,7 +17,7 @@ layout:
 
 En el mundo de los NFTs, cada token suele tener información única, como imágenes, nombres o descripciones, que forman sus **metadatos**. Sin embargo, esta información no se guarda directamente en la blockchain, ya que almacenar grandes cantidades de datos en la cadena puede ser caro y poco práctico. En su lugar, se usa **almacenamiento descentralizado** y una **URI** (Uniform Resource Identifier) para manejar estos datos de manera eficiente.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **¿Qué es IPFS?**
 

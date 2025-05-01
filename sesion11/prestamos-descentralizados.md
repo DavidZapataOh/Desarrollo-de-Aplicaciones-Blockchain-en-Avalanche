@@ -29,10 +29,10 @@ Dos de los protocolos más representativos en el espacio DeFi para préstamos y 
 
 *   **Compound**: Este protocolo permite a los usuarios depositar criptoactivos en pools de liquidez y ganar intereses. Los prestatarios pueden pedir prestado utilizando sus depósitos como garantía. Compound ajusta las tasas de interés de acuerdo con la oferta y la demanda de cada activo en tiempo real.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 *   **Aave**: Similar a Compound, Aave permite a los usuarios prestar y pedir prestado, pero ofrece características únicas como **préstamos flash** y **tasas de interés flexibles o fijas**. Los préstamos flash permiten a los usuarios tomar prestado sin garantía, siempre que el préstamo se devuelva en la misma transacción, una función ideal para arbitrajes y estrategias de trading avanzadas.
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt="" width="188"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### **Principios Fundamentales de DeFi**
 

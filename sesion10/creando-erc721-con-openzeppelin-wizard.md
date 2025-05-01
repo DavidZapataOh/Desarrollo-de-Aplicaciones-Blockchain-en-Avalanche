@@ -75,4 +75,4 @@ Desde Remix, puedes mintear un nuevo NFT ejecutando la función `mint`, pasando 
 
 En el caso de un token ERC721, no es necesario manejar decimales como con ERC20, ya que cada token es único e indivisible.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
