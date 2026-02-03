@@ -1,18 +1,15 @@
 ---
-icon: ethereum
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: display-code
 ---
 
-# Sesión 3: EVM y Fundamentos de Avalanche
+# Sesión 3: Conociendo Remix
 
-Ahora entraremos en profundidad en cuanto a la EVM (Ethereum Virtual Machine), su historia, su función, y como, a parte de Ethereum, otras redes como Avalanche se han aprovechado de esta tecnología para crear un sistema supremamente escalable.
+Ha llegado el momento de ponernos manos a la obra. Ya tienes todo el contexto suficiente para empezar a crear tus primeros códigos y subirlos a la blockchain. Usaremos Remix, el entorno de desarrollo más facil de usar al principio. Iremos paso a paso, desde la creación del contrato, hasta subirlo exitosamente en la blockchain.
+
+### Objetivo:
+
+Al final de esta sesión podrás:
+
+* Entender como funciona Remix y todas las herramientas que te brinda.
+* Entender la estructura básica de los contratos inteligentes en Solidity.
+* Desplegar tu primer contrato inteligente en la red de prueba de Avalanche (Fuji), verificarlo de manera sencilla, e interactuar con el.

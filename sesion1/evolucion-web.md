@@ -1,16 +1,5 @@
 ---
 icon: square-small
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Evolución de la Web
@@ -25,7 +14,7 @@ Haz de cuenta como si los sitios web de aquella época fueran periódicos o revi
 
 Estas limitaciones se debían a las tecnologías web de la época que no soportaban interactividad dinámica, pero sentaron las bases para la creación de sistemas más avanzados en el futuro.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Web 2.0
 
@@ -37,7 +26,7 @@ Estas mejoras no solo facilitaron la colaboración y el intercambio de informaci
 
 A pesar de todas estas mejoras, la Web2 todavía contaba con un problema, la propiedad y control de la información y los datos de los usuarios quedaban en manos de grandes corporaciones, lo que plantea serias preocupaciones sobre la privacidad y autonomía de los usuarios en la red.&#x20;
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Web 3.0
 
@@ -49,4 +38,4 @@ Imagina los sitios web de esta era como comunidades autónomas donde cada partic
 
 Con todo esto el objetivo es hacer de la web un lugar más seguro, transparente y equitativo, introduciendo la autonomía digital en un entorno donde la privacidad y la seguridad son prioritarias.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>

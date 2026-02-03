@@ -1,6 +1,6 @@
 ---
-icon: rectangle-code
+icon: coin-front
 ---
 
-# Sesión 8: Explorando Solidity IV
+# Sesión 9: Tokens ERC20
 

@@ -1,6 +1,6 @@
 ---
-icon: comment-code
+icon: rectangle-code
 ---
 
-# Sesión 7: Explorando Solidity III
+# Sesión 8: Explorando Solidity IV
 

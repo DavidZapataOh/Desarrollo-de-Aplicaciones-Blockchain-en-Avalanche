@@ -1,6 +1,6 @@
 ---
-icon: unicorn
+icon: house-circle-check
 ---
 
-# Sesión 11: DeFi
+# Sesión 12: Tokenización de Activos del Mundo Real
 

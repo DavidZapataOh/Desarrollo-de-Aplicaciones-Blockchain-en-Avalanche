@@ -1,6 +1,6 @@
 ---
-icon: link
+icon: bezier-curve
 ---
 
-# Sesión 24: HyperSDK
+# Sesión 24: Tokens Encriptados eERC
 

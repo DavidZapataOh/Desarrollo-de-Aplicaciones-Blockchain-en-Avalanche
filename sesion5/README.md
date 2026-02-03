@@ -1,6 +1,6 @@
 ---
-icon: rectangle-terminal
+icon: terminal
 ---
 
-# Sesión 5: Explorando Solidity I
+# Sesión 6: Explorando Solidity II
 

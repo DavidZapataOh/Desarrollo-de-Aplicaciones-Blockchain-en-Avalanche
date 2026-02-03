@@ -1,18 +1,7 @@
 ---
-icon: binary-lock
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: ethereum
 ---
 
-# Sesión 2: Fundamentos de Blockchain
+# Sesión 2: EVM y Fundamentos de Avalanche
 
-Ahora que ya tenemos un poco más de contexto sobre blockchain, pasaremos ahora a cosas más técnicas que te ayudarán a comprender mejor como funciona la blockchain.
+Ahora entraremos en profundidad en cuanto a la EVM (Ethereum Virtual Machine), su historia, su función, y como, a parte de Ethereum, otras redes como Avalanche se han aprovechado de esta tecnología para crear un sistema supremamente escalable.

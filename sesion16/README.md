@@ -1,6 +1,6 @@
 ---
-icon: industry-windows
+icon: gem
 ---
 
-# Sesión 16: Patrones de Diseño I
+# Sesión 17: Patrones de Diseño II
 

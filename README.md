@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔺 Desarrollo de Aplicaciones Blockchain en Avalanche
 
 ¡El mejor curso para convertirte en un experto desarrollador blockchain especializado en la red de Avalanche!.

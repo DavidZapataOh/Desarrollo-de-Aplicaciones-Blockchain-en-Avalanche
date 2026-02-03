@@ -1,6 +1,6 @@
 ---
-icon: github
+icon: industry-windows
 ---
 
-# Sesión 15: Introducción a Git, Github, Open Source
+# Sesión 16: Patrones de Diseño I
 

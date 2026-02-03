@@ -1,6 +1,6 @@
 ---
-icon: terminal
+icon: comment-code
 ---
 
-# Sesión 6: Explorando Solidity II
+# Sesión 7: Explorando Solidity III
 

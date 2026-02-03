@@ -1,6 +1,6 @@
 ---
-icon: hexagon-vertical-nft
+icon: unicorn
 ---
 
-# Sesión 10: Tokens ERC721, ERC1155 y otras variables
+# Sesión 11: DeFi
 

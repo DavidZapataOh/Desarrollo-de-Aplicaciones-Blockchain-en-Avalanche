@@ -1,6 +1,6 @@
 ---
-icon: coin-front
+icon: hexagon-vertical-nft
 ---
 
-# Sesión 9: Tokens ERC20
+# Sesión 10: Tokens ERC721, ERC1155 y otras variables
 
