@@ -142,6 +142,7 @@
   * [Crear nuevo proyecto](sesion12/crear-nuevo-proyecto.md)
   * [Comandos básicos de Foundry](sesion12/comandos-basicos-de-foundry.md)
   * [Interactuando con contratos](sesion12/interactuando-con-contratos.md)
+  * [Tipos de tests](sesion12/tipos-de-tests.md)
   * [Testing Básico de Contratos Inteligentes](sesion12/testing-basico-de-contratos-inteligentes.md)
 * [Sesión 13: Smart Contract Security](sesion14.md)
 * [Sesión 14: Optimización de gas](sesion14-1/README.md)
